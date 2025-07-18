@@ -53,3 +53,7 @@ javac -cp ".;lib/json-20240303.jar" src/WeatherApiClient.java -d bin
 
 # Run
 java -cp ".;lib/json-20240303.jar;bin" WeatherApiClient
+
+##OUTPUT
+
+<img width="1919" height="1022" alt="Image" src="https://github.com/user-attachments/assets/33dc5fef-627d-4699-b97b-41bdea5e10d4" />
