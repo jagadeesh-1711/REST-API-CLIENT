@@ -47,6 +47,11 @@ This project can be applied in several practical scenarios:
 
 ---
 
+##OUTPUT
+
+<img width="1919" height="1022" alt="Image" src="https://github.com/user-attachments/assets/4551353a-671d-4750-ab0e-38098131db3b" />
+
+
 ## 🚀 How to Run
 
 Follow the steps below to compile and run the application:
@@ -60,10 +65,6 @@ Place it in the `lib/` folder of your project.
 
 ### 2. Compile the Java Code
 
-``bash
+```bash
 javac -cp ".;lib/json-20240303.jar" src/WeatherApiClient.java -d bin
-
-##OUTPUT
-
-<img width="1919" height="1022" alt="Image" src="https://github.com/user-attachments/assets/4551353a-671d-4750-ab0e-38098131db3b" />
 
